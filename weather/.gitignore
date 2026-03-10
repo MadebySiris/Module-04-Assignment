@@ -1,1 +1,13 @@
+# Maven build output
+target/
+
+# VS Code workspace settings
+.vscode/
 *.json
+
+# Compiled class files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
